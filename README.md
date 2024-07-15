@@ -5,12 +5,6 @@ A Python-Django Task Manager Project with REST API
 <br>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
-<h3>Project's Short Demo</h3>
-
-https://github.com/MusfiqDehan/task-manager/assets/47440165/7219a3f5-e809-4182-8478-ec85f105a210
-
-For more detail overview visit this link: https://youtu.be/4XTaPGTVto0
-
 </div>
 
 ## Table of Contents
@@ -53,7 +47,7 @@ sudo apt install python3-pip
 -   Clone the repository
 
 ```bash
-git clone https://github.com/MusfiqDehan/task-manager.git
+git clone https://github.com/RajdeepDas43/Task-manager-API.git
 ```
 
 -   Go to the project directory
